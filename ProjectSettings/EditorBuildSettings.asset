@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Fusion112/Fusion112.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
     path: Assets/Fusion101.unity
     guid: ea6ced8bfa7f84b5cb45e3352a7abe54
   - enabled: 1
